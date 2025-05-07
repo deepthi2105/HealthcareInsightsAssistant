@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environment
+.env
+.venv/
+venv/
+env/
+*.env
+
+# Jupyter / Streamlit
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+
+# Database or large data
+*.db
+*.sqlite
+*.log
+*.csv
+
+# VSCode & IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# System
+.DS_Store
+Thumbs.db
+
+# Git / build
+*.zip
+*.egg-info/
+dist/
+build/
+
+# Model files or artifacts (optional)
+*.pt
+*.pkl
+*.bin

@@ -3,3 +3,7 @@ sqlalchemy
 python-dotenv
 langchain
 openai
+psycopg2-binary
+tiktoken
+langchain_community
+matplotlib
